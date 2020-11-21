@@ -1,0 +1,1 @@
+gsap.to(selector, {duration: 1, toVars})
